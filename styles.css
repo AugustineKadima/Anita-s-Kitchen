@@ -21,3 +21,31 @@
     text-align: center;
     color: white;
 }
+
+#menu{
+    filter: invert(1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    padding: 20px;
+}
+
+.happyHour{
+    background-image: rgb(233, 232, 232);
+}
+
+.partyTime{
+    background-color: #F15A29;
+}
+
+.breakFast{
+    background-image: url();
+}
+
+.lunch{
+    background-image: url();
+}
+
+.dinner{
+    background-image: url();
+}
