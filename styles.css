@@ -1,0 +1,9 @@
+
+.mainContainer > .landingContainer{
+    padding: 20em;
+    background-image: url("IMAGES/backgrounds/landing.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+   
+   
+}
