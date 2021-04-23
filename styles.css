@@ -22,8 +22,7 @@ body{
 .logoWrapper{
     display: flex;
     justify-content: center;
-    align-items: center;
-   
+    align-items: center;  
 }
 
 
@@ -51,21 +50,25 @@ body{
     color: white;
 }
 
-.breakFast{
+.breakfast{
     background-image: url("IMAGES/foodtop/breakfast.jpg");
     background-size: auto;
     background-repeat: no-repeat;
-    padding: 20em;
-    display: flex;
-    justify-content: center;
-    align-content: center;
+    width: 25%;
+    
+}
+
+.specialTimes{
+    width: 25%;
 }
 
 .lunch{
+    background-image: url("IMAGES/foodtop/lunch.jpg");
     background-size: auto;
     background-repeat: no-repeat;
-    padding: 20em;
-    background-image: url("IMAGES/foodtop/lunch.jpg");
+    width: 25%;
+    
+   
 }
 
 .dinner{
@@ -73,14 +76,16 @@ body{
     background-image: url("IMAGES/foodtop/dinner.jpg");
     background-size: auto;
     background-repeat: no-repeat;
-    padding: 20em;
+    width: 25%;
+    
 }
 
 .subContainer{
-    position: absolute;
     margin: 0px;
     padding: 0px;
     display: flex;
-    justify-content: space-evenly;
-    
+    width: 100%;   
 }
+
+    
+
