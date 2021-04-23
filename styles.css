@@ -2,6 +2,8 @@ body{
     width: 100%;
     height: auto;
     margin: 0px;
+    font-family: sans-serif;
+    box-sizing: border-box;
 }
 .container{
     margin: 0px;
