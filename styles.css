@@ -4,13 +4,20 @@
     background-image: url("IMAGES/backgrounds/landing.jpg");
     background-repeat: no-repeat;
     background-size: 100%;
-    padding: 20em;
+    padding: 20em;  
     position: relative;
-   
-   
+
 }
 
-#logo{
+.logoWrapper{
     position: absolute;
-    
+    top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#logoTag{
+    text-align: center;
+    color: white;
 }
