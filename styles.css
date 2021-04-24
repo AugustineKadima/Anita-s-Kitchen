@@ -202,6 +202,14 @@ body{
     text-align: center;
 }
 
+.contentLeft{
+    width: 70vw;
+}
+.contentRight{
+    width: 30vw;
+    border-left: 2px solid grey;
+}
+
 .customerScroll{
     display: flex;
     justify-content: center;
@@ -209,4 +217,17 @@ body{
 
 .customerScroll > div{
     padding: 20px;
-    
+}
+
+.happyCustomers{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 0px 10px grey;
+    padding: 20px;
+    margin: 40px;
+}
+
+#headingCustomers{
+    color: #F15A29;
+}
