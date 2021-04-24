@@ -144,3 +144,8 @@ body{
     
 }
 
+.container > .landscapeMenu > .scrollMenu{
+    background-color: white;
+  
+}
+
