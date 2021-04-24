@@ -237,4 +237,14 @@ body{
     background-repeat: no-repeat;
     background-size: auto;
     height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.subscribe > #subscribeBtn{
+    margin-left: 20px;
+    background-color: #F15A29;
+    color: white;
 }
