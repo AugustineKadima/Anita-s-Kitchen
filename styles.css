@@ -197,6 +197,16 @@ body{
     font-style: bold;
 }
 
+.contentLeft, .contentRight{
+    padding: 40px;
+    text-align: center;
+}
+
 .customerScroll{
     display: flex;
+    justify-content: center;
 }
+
+.customerScroll > div{
+    padding: 20px;
+    
