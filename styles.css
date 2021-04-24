@@ -231,3 +231,10 @@ body{
 #headingCustomers{
     color: #F15A29;
 }
+
+.subscribe{
+    background-image: url("IMAGES/backgrounds/subscribe.jpg");
+    background-repeat: no-repeat;
+    background-size: auto;
+    height: 50vh;
+}
