@@ -107,8 +107,17 @@ body{
 }
 
 .fastFood{
+    margin: 40px;
     display: flex;
-    justify-content: space-around;
+    
+}
+
+.fastFood > .fastContent1{
+    margin-left: 40px;
+}
+
+.fastFood > .fastContent2{
+    margin-right: 40px;
 }
     
 .fastFood > .imgContainer1{
