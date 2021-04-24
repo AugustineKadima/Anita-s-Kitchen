@@ -162,6 +162,23 @@ body{
     justify-content: space-evenly;
     
 }
+
+.categoryNameMenu > div{
+    padding: 20px;
+    background-color: rgb(184, 184, 184);
+    width: 25%;
+    border: 1px solid rgb(160, 160, 160);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.categoryNameMenu > div:first-child{
+    background-color: white;
+    border: white;
+    color: #F15A29;
+}
+
 .imagePlusName{
     display: flex;
 
