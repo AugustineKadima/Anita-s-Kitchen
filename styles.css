@@ -188,3 +188,15 @@ body{
     border: white 20px solid;
 }
 
+#next{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #F15A29;
+    font-size: 20px;
+    font-style: bold;
+}
+
+.customerScroll{
+    display: flex;
+}
