@@ -325,18 +325,40 @@ body{
     background-color: #F15A29;
 }
 
+.footerSubContainer{
+    padding: 40px 0px 10px;
+}
+
+
 .menuLogo{
     display: flex;
     justify-content: center;
     align-content: center;
+    text-align: center;
+}
+ 
+.menuLogo h2{
+    color: white;
+    
 }
 
-.para{
+#para{
     text-align: center;
+    color: white;
 }
 
 .socialIcons{
-    
+    filter: invert(1);
     display: flex;
     justify-content: center;
+}
+.socialIcons > div{
+    padding: 0px 20px;
+    
+}
+
+#credits{
+    color: white;
+    margin-top: 40px;
+    text-align: center;
 }
