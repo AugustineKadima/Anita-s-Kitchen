@@ -129,6 +129,15 @@ body{
     
 }
 
+.fastContent1 > button, .fastContent2 > button {
+    background: none;
+    color: #F15A29;
+    border: 1px solid #F15A29;
+    padding: 10px 20px;
+    border-radius: 4px;
+    margin-bottom: 20px;
+}
+
 .fastFood > .fastContent1, .fastFood > .fastContent2{
     width: 40%;
     
