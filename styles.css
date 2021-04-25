@@ -280,23 +280,32 @@ body{
     color: #F15A29;
 }
 
-.subscribe{
+
+
+.subEmailContainer{
     background-image: url("IMAGES/backgrounds/subscribe.jpg");
     background-repeat: no-repeat;
     background-size: auto;
-    height: 50vh;
+    height: 45vh;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
+    color: white;
 
 }
 
-.subscribe > #subscribeBtn{
+.subscribe{
+    display: flex;
+    font-weight: 700px;
+}
+
+#subscribeBtn{
     margin-left: 20px;
     
 }
 
-.subscribe > #subscribeBtn > button{
+ #subscribeBtn > button{
     background-color: #F15A29;
     color: white;
     padding: 10px 40px;
