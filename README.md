@@ -1,4 +1,4 @@
-# Anita's Kitchen
+# Anita's Kitchen Menu
 #### This is a menu that helps you make a decision on what eat, 26th April, 2021
 #### By Augustine Kadima Samuel
 ## Description
