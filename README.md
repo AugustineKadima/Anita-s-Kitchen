@@ -1,5 +1,5 @@
 # Anita's Kitchen Menu
-#### This is a menu that helps you make a decision on what eat, 26th April, 2021
+#### This is a menu that helps you make a decision on what to eat, 26th April 2021
 #### By Augustine Kadima Samuel
 ## Description
 This website allows you to navigate through Anita's kitchen menu. The menu has a variety of meals that you can eat at your own convenience. It helps you decide whether to eat fast foods or drinks. You will learn about previous customer experience and get information on how to reach us on our social media handles.
