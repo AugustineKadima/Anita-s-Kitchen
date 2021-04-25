@@ -293,8 +293,15 @@ body{
 
 .subscribe > #subscribeBtn{
     margin-left: 20px;
+    
+}
+
+.subscribe > #subscribeBtn > button{
     background-color: #F15A29;
     color: white;
+    padding: 10px 40px;
+    border: none;
+    border-radius: 4px;
 }
 
 #email{
