@@ -21,20 +21,16 @@ body{
 
 
 .logoItem{
-    background-color: black;
+    margin-bottom: -40px;
     font-size: 40px;
     text-align: center;
 
 }
 
-.logoItem > img{
-    background-color: cyan;
-}
-
 #logoTag{
     text-align: center;
     color: white;
-    background-color: rgb(49, 219, 27);
+   
     
 }
 
@@ -45,6 +41,7 @@ body{
     top: 0px;
     left: 0px;
     padding: 20px;
+    width: 50px;
 }
 
 .happyHour{
